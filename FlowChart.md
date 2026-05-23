@@ -1,5 +1,3 @@
-flowchart TD
-
 A[Start Program] --> B[Read First Number]
 B --> C[Read Second Number]
 C --> D[Choose Operation]
